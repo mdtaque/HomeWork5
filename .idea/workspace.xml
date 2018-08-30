@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9335b37-4ea3-4e28-a248-4d609f650fbc" name="Default Changelist" comment="" />
+    <list default="true" id="a9335b37-4ea3-4e28-a248-4d609f650fbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/staticmethod/Superage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld.java/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorks/staticmethod/TestMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWorks/staticmethod/TestMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staticmethod/TestMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staticmethod/TestMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staticvariables/TestStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staticvariables/TestStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file.txt" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,29 +22,31 @@
     <session id="492957030">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="5" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="java" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1002" />
+          <entry key="java" value="1480" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1002" />
+          <entry key="JAVA" value="1480" />
         </counts>
       </usages-collector>
     </session>
@@ -43,45 +54,59 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/staticvariables/StaticVariables.java">
+        <entry file="file://$PROJECT_DIR$/src/staticmethod/StaticMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/staticvariables/TestStatic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nestedclass/OuterClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="68">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               <folding>
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#88#89#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/nestedclass/TestClass.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/loops/forloop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="102">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/loops/whileloop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/loops/dowhileloop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/staticmethod/Superage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/staticmethod/TestMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="146" selection-start-line="6" selection-start-column="146" selection-end-line="6" selection-end-column="146" />
             </state>
           </provider>
         </entry>
@@ -96,24 +121,28 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/staticvariables/StaticVariables.java" />
-        <option value="$PROJECT_DIR$/src/staticmethod/StaticMethod.java" />
-        <option value="$PROJECT_DIR$/src/staticmethod/TestMethod.java" />
-        <option value="$PROJECT_DIR$/src/staticvariables/TestStatic.java" />
         <option value="$PROJECT_DIR$/src/nestedclass/OuterClass.java" />
         <option value="$PROJECT_DIR$/src/nestedclass/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/staticvariables/TestStatic.java" />
+        <option value="$PROJECT_DIR$/src/staticmethod/StaticMethod.java" />
+        <option value="$PROJECT_DIR$/src/staticmethod/TestMethod.java" />
+        <option value="$PROJECT_DIR$/src/staticmethod/Superage.java" />
+        <option value="$PROJECT_DIR$/src/loops/forloop.java" />
+        <option value="$PROJECT_DIR$/src/loops/whileloop.java" />
+        <option value="$PROJECT_DIR$/src/loops/dowhileloop.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="120" />
-    <option name="y" value="27" />
-    <option name="width" value="1241" />
+    <option name="x" value="386" />
+    <option name="y" value="23" />
+    <option name="width" value="1004" />
     <option name="height" value="824" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -122,6 +151,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,19 +169,17 @@
               <item name="HomeWorks" type="b2602c69:ProjectViewProjectNode" />
               <item name="HomeWorks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="nestedclass" type="462c0819:PsiDirectoryNode" />
+              <item name="loops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535507787421" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535667057836" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RunDashboard">
@@ -165,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestClass">
+  <component name="RunManager" selected="Application.dowhileloop">
     <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nestedclass.TestClass" />
       <module name="HomeWorks" />
@@ -192,12 +221,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="staticvariables.TestStatic" />
+    <configuration name="dowhileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.dowhileloop" />
       <module name="HomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="staticvariables.*" />
+          <option name="PATTERN" value="loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="forloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.forloop" />
+      <module name="HomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="whileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.whileloop" />
+      <module name="HomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,15 +261,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestStatic" />
       <item itemvalue="Application.TestMethod" />
       <item itemvalue="Application.TestClass" />
+      <item itemvalue="Application.forloop" />
+      <item itemvalue="Application.whileloop" />
+      <item itemvalue="Application.dowhileloop" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.dowhileloop" />
+        <item itemvalue="Application.whileloop" />
+        <item itemvalue="Application.forloop" />
         <item itemvalue="Application.TestMethod" />
-        <item itemvalue="Application.TestStatic" />
+        <item itemvalue="Application.TestClass" />
       </list>
     </recent_temporary>
   </component>
@@ -232,20 +291,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="120" y="27" width="1241" height="824" extended-state="0" />
+    <frame x="386" y="23" width="1004" height="824" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26855713" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23804574" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32786885" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.3251366" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3251366" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -270,21 +329,18 @@
     <entry file="file://$USER_HOME$/JAVA/CoreJavaDay8/src/singleton/example/House.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/staticmethod/TestMethod.java">
+    <entry file="file://$PROJECT_DIR$/../pushingpulling/src/collaboration.java" />
+    <entry file="file://$PROJECT_DIR$/src/nestedclass/OuterClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="89" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
+        <state relative-caret-position="221">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/staticmethod/StaticMethod.java">
+    <entry file="file://$PROJECT_DIR$/src/nestedclass/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -297,30 +353,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/staticvariables/TestStatic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nestedclass/OuterClass.java">
+    <entry file="file://$PROJECT_DIR$/src/staticmethod/Superage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
           <folding>
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nestedclass/TestClass.java">
+    <entry file="file://$PROJECT_DIR$/src/staticmethod/TestMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="102">
+          <caret line="6" column="146" selection-start-line="6" selection-start-column="146" selection-end-line="6" selection-end-column="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/staticmethod/StaticMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loops/forloop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loops/whileloop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loops/dowhileloop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>

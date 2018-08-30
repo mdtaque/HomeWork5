@@ -11,6 +11,6 @@ public class TestStatic {
         p.age = 40;
         System.out.println(p.age);
 
-        System.out.println(s.age); //here the value is changed because static variable belongs to class and non-static variable belongs to object
+        System.out.println(s.age); //here the value is changed because static variable belongs to class and non-static variable belongs to object(s & p)
     }
 }
